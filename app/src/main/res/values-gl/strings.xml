@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">U3_STUDENT_MANUEL</string>
+    <string name="action_settings">Axustes</string>
+    <string name="text_clear">Limpar</string>
+    <string name="text_button">Engadir / Limpar</string>
+    <string name="text_label">Aquí é onde verás o texto que ti escribas</string>
+    <string name="text_hint">Escribe un texto e pulsa no botón</string>
+    <string name="text_red">Encarnado</string>
+    <string name="text_blue">Azul</string>
+    <string name="text_start">Comezar</string>
+    <string name="text_stop">Rematar</string>
+    <string name="text_image">Ponte romana en Teo</string>
+    <string name="text_toast_gal">Selecionaches unha provincia galega</string>
+    <string name="text_toast_no_gal">Non selecionaches unha provincia galega</string>
+</resources>
